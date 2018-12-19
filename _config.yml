@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+# basic options
+title: Your awesome title
+author: GitHub User
+email: hyunsangson@utexas.edu
